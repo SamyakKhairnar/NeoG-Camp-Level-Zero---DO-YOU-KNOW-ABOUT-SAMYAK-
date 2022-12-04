@@ -1,3 +1,8 @@
-# NeoGCamp Mark 1 Project
-## HOW-MUCH-DO-YOU-KNOW-ABOUT-SAMYAK ?
-### It's a CLI App Which is Created Using Repl.it
+## NeoG Camp Level 1 Project
+### A Quiz App on How Well You Know Me ?
+### Created Using Node.Js in Repl.it .
+
+[Have A Look to the Project](https://replit.com/@SamyakKhairnar/NeoG-Camp-Level-Zero-DO-YOU-KNOW-ABOUT-SAMYAK?embed=1&output=1)
+
+
+![Mark 1](https://user-images.githubusercontent.com/84782149/205513382-37d83ddd-de9d-4287-9cf2-8c1c78274f41.JPG)
